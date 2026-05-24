@@ -1,2 +1,84 @@
-# CpE_Portfolio_Estrosas_BSCpE3A
-I am Eza Estrosas, a Computer Engineering student from CE3A.
+# Eza Estrosas Portfolio
+
+Welcome to my Computer Engineering portfolio repository.
+
+I am Eza Estrosas, a BS Computer Engineering student from CE3A. This portfolio contains selected projects, activities, and technical outputs that demonstrate my learning and experience in both software and hardware development.
+
+---
+
+# 📌 Personal Information
+
+- Course: Bachelor of Science in Computer Engineering
+- Section: CE3A
+
+I am passionate about technology and problem-solving. I enjoy creating systems, designing circuits, and exploring different programming languages to improve my technical abilities.
+
+---
+
+# 🛠 Technical Skills
+
+- Python Programming
+- C++ Programming
+- Arduino Programming
+- ESP32 Projects
+- Networking Basics
+- Schematic Design
+- Microsoft Office
+- GitHub
+
+---
+
+# 📂 Projects
+
+## 🔹 Mini Amplifier Circuit Using LM386
+
+### Description
+This project focuses on building a mini audio amplifier using the LM386 integrated circuit. The circuit is compact, beginner-friendly, and capable of amplifying low-power audio signals.
+
+### Components Used
+- LM386
+- Capacitor
+- Resistor
+- Speaker
+- Potentiometer
+- Battery
+
+### Project Screenshot
+![Amplifier](images/project1.jpg)
+
+---
+
+## 🔹 Rock Paper Scissors Game
+
+### Description
+A simple Python-based game inspired by the traditional Filipino game “Bato-Bato Pick.” The program allows the user to play against the computer.
+
+### Technologies Used
+- Python
+- VS Code
+
+### Project Screenshot
+![Game](images/project2.jpg)
+
+---
+
+## 🔹 ALU Circuit Design
+
+### Description
+An Arithmetic Logic Unit (ALU) circuit created using logic gates and digital components to perform arithmetic and logical operations.
+
+### Components Used
+- Logic Gates
+- LEDs
+- Switches
+- Breadboard
+
+### Project Screenshot
+![ALU](images/project3.jpg)
+
+---
+
+# 📬 Contact Information
+
+- Email: estrosaseza31@gmail.com
+- GitHub: https://github.com/EzaEstrosas
