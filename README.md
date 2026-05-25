@@ -19,8 +19,6 @@ I am passionate about technology and problem-solving. I enjoy creating systems, 
 
 - Python Programming
 - C++ Programming
-- Arduino Programming
-- ESP32 Projects
 - Networking Basics
 - Schematic Design
 - Microsoft Office
@@ -45,7 +43,9 @@ This project focuses on building a mini audio amplifier using the BC548 Transist
 - Audio Plug
 
 ### Project Screenshot
-![Amplifier](images/Amplifier%201.jpg)
+<img src="Images/Amplifier%203D%20Model.png" height="300" /> 
+<img src="Images/Schematic.png" height="300" /> 
+<img src="Images/Amplifier.png" height="300" /> 
 
 ---
 
