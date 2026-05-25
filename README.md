@@ -30,35 +30,22 @@ I am passionate about technology and problem-solving. I enjoy creating systems, 
 
 # 📂 Projects
 
-## 🔹 Mini Amplifier Circuit Using LM386
+## 🔹 Mini Amplifier Circuit Using BC548 Transistor
 
 ### Description
-This project focuses on building a mini audio amplifier using the LM386 integrated circuit. The circuit is compact, beginner-friendly, and capable of amplifying low-power audio signals.
+This project focuses on building a mini audio amplifier using the BC548 Transistor. The circuit is compact, beginner-friendly, and capable of amplifying low-power audio signals.
 
 ### Components Used
-- LM386
+- BC548 Transistor
 - Capacitor
 - Resistor
 - Speaker
-- Potentiometer
 - Battery
+- Microphone Cable
+- Audio Plug
 
 ### Project Screenshot
-![Amplifier](images/project1.jpg)
-
----
-
-## 🔹 Rock Paper Scissors Game
-
-### Description
-A simple Python-based game inspired by the traditional Filipino game “Bato-Bato Pick.” The program allows the user to play against the computer.
-
-### Technologies Used
-- Python
-- VS Code
-
-### Project Screenshot
-![Game](images/project2.jpg)
+![Amplifier](images/Amplifier%201.jpg)
 
 ---
 
