@@ -49,22 +49,6 @@ This project focuses on building a mini audio amplifier using the BC548 Transist
 
 ---
 
-## 🔹 ALU Circuit Design
-
-### Description
-An Arithmetic Logic Unit (ALU) circuit created using logic gates and digital components to perform arithmetic and logical operations.
-
-### Components Used
-- Logic Gates
-- LEDs
-- Switches
-- Breadboard
-
-### Project Screenshot
-![ALU](images/project3.jpg)
-
----
-
 # 📬 Contact Information
 
 - Email: estrosaseza31@gmail.com
